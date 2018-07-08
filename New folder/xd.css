@@ -1,0 +1,23 @@
+*{
+    padding:0;
+	margin: 0;
+}
+h1 {
+	
+	color: white; 
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+
+
+}
+body,html{
+	background-image: url(https://images.unsplash.com/photo-1464397084257-576d657be142?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=48624f84195c176012455e1e826638ba&auto=format&fit=crop&w=1350&q=80);
+	background-size: cover;
+	background-repeat:no-repeat ;
+	width:100%; 
+	height:100%;
+	filter: brightness(70%);
+}
